@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-29T15:45:35 EDT" name="Suite" finished-at="2021-06-29T15:46:02 EDT" duration-ms="26627">
+    <groups>
+    </groups>
+    <test started-at="2021-06-29T15:45:35 EDT" name="Test" finished-at="2021-06-29T15:46:02 EDT" duration-ms="26627">
+      <class name="com.automate.automator1.AppTest">
+        <test-method is-config="true" signature="lauchDriverOpenURL()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:35 EDT" name="lauchDriverOpenURL" finished-at="2021-06-29T15:45:38 EDT" duration-ms="2594" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchDriverOpenURL -->
+        <test-method signature="Test1()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:38 EDT" name="Test1" finished-at="2021-06-29T15:45:38 EDT" duration-ms="915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test1 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:38 EDT" name="closeDriver" finished-at="2021-06-29T15:45:40 EDT" duration-ms="1399" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="lauchDriverOpenURL()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:40 EDT" name="lauchDriverOpenURL" finished-at="2021-06-29T15:45:42 EDT" duration-ms="1793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchDriverOpenURL -->
+        <test-method signature="Test2()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:42 EDT" name="Test2" finished-at="2021-06-29T15:45:43 EDT" duration-ms="1718" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test2 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:43 EDT" name="closeDriver" finished-at="2021-06-29T15:45:44 EDT" duration-ms="855" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="lauchDriverOpenURL()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:44 EDT" name="lauchDriverOpenURL" finished-at="2021-06-29T15:45:46 EDT" duration-ms="1786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchDriverOpenURL -->
+        <test-method signature="Test3()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:46 EDT" name="Test3" finished-at="2021-06-29T15:45:48 EDT" duration-ms="1827" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test3 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:48 EDT" name="closeDriver" finished-at="2021-06-29T15:45:49 EDT" duration-ms="887" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="lauchDriverOpenURL()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:49 EDT" name="lauchDriverOpenURL" finished-at="2021-06-29T15:45:50 EDT" duration-ms="1666" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchDriverOpenURL -->
+        <test-method signature="Test4()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:50 EDT" name="Test4" finished-at="2021-06-29T15:45:52 EDT" duration-ms="1795" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test4 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:52 EDT" name="closeDriver" finished-at="2021-06-29T15:45:53 EDT" duration-ms="891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+        <test-method is-config="true" signature="lauchDriverOpenURL()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:53 EDT" name="lauchDriverOpenURL" finished-at="2021-06-29T15:45:55 EDT" duration-ms="1699" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- lauchDriverOpenURL -->
+        <test-method signature="clickButtonCloseAlert_Test5()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:45:55 EDT" name="clickButtonCloseAlert_Test5" finished-at="2021-06-29T15:46:01 EDT" duration-ms="5832" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickButtonCloseAlert_Test5 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:com.automate.automator1.AppTest@757277dc]" started-at="2021-06-29T15:46:01 EDT" name="closeDriver" finished-at="2021-06-29T15:46:02 EDT" duration-ms="924" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- com.automate.automator1.AppTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
